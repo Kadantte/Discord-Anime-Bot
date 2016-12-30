@@ -6,16 +6,18 @@ If you don't want to set it up yourself, you can use my bot here:
 https://discordapp.com/api/oauth2/authorize?client_id=252352734366269441&scope=bot&permissions=0
 
 Commands:
->>mal [anime name] Anime info grabbed from MAL
->>ani [anime name] Anime info grabbed from ANILIST
+>>mal [anime name] Anime info grabbed from MAL.
+
+>>ani [anime name] Anime info grabbed from ANILIST.
+
 >>feet Gets foot fetish image. NSFW
 >>moe Gets moe image. May be NSFW
->>smug Gets a smug face
+>>smug Gets a smug face.
 >>pat Gets a pat picture. May be NSFW
->>wallpaper Gets a random anime wallpaper. Follow with a keyword to limit results
->>suggest Gets a random anime from MAL
+>>wallpaper Gets a random anime wallpaper. Follow with a keyword to limit results.
+>>suggest Gets a random anime from MAL.
 >>quote Random quote from a random anime!
->>news Gets news from MAL
+>>news Gets news from MAL.
 >>hentai Sends a hentai image. NSFW
 >>glasses Gets a glass fetish image. May be NSFW
 >>stockings Gets stocking fetish image. May be NSFW
